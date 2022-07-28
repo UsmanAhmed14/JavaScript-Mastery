@@ -4,3 +4,5 @@
 
 
 In HTML there's an `script` tag in which we can write our javascript
+
+![](Images/Screenshot_1.png)

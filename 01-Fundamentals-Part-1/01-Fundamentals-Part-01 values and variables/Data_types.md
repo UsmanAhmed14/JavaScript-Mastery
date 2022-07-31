@@ -6,4 +6,3 @@ In every programming language `values` can have *different* *types* depending on
 
 ![]()
 
-
